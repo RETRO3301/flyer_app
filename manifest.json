@@ -2,7 +2,7 @@
     "name": "Flyer App - Карта для расклейки",
     "short_name": "Flyer",
     "description": "Приложение для маршрутов расклейки объявлений",
-    "start_url": "/",
+    "start_url": "/flyer_app/",
     "display": "standalone",
     "background_color": "#9575CD",
     "theme_color": "#9575CD",
